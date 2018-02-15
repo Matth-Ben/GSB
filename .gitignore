@@ -1,0 +1,7 @@
+/app/config/parameters.yml
+/vendor/*
+!/vendor/friendsofsymfony
+/var
+/tests
+/bin
+/.idea
