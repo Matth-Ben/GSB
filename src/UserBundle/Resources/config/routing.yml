@@ -1,0 +1,3 @@
+user_homepage:
+    path:     /fichefrias?={id}
+    defaults: { _controller: UserBundle:base }
